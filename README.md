@@ -66,7 +66,7 @@ This repo is for:
 | PHIL1404 | Ethics and Social Responsibility | Not Started |
 | BIOL1301 | Introduction to Biology | Not Started |
 | AHIST1401 | Art History | Not Started |
-| HIST1421 | Art History | Not Started |
+| HIST1421 | Greek and Roman Civilization | Not Started |
 | PHIL1402 | Introduction to Philosophy | Not Started |
 | POLS1503 | Globalization | Not Started |
 | ENVS1301 | Introduction to Environmental Science | Not Started |
