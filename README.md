@@ -5,7 +5,7 @@ I am a Computer Science student at **University of the People (UoPeople)**.
 This repository documents my **learning journey, notes, and projects** throughout my CS degree.
 
 📍 Start date: Jan 29 2026  
-🎯 Career goal: Data Engineer / Backend Engineer
+🎯 Career goal: Backend Engineer
 
 ---
 
