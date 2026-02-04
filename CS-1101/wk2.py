@@ -40,19 +40,21 @@ def right_justify(s):
     spaces = 70 - len(s)
     print(" " * spaces + s)
 
-right_justify("monty")
+right_justify("Jaden is so cool, as the same time she is so handsome. I love Jaden!")
 
 # Exercise 3.2. A function object is a value you can assign to a variable or pass as an argument. For
 # example, do_twice is a function that takes a function object as an argument and calls it twice:
 
-def do_twice(f):
+def do_fouth(f):
+    f()
+    f()
     f()
     f()
 
 def print_name():
     print("your name")
 
-do_twice(print_name)
+do_fouth(print_name)
 
 # Exercise 3.3, 1.
 
@@ -70,3 +72,31 @@ print(line2)
 print(line2)
 print(line2)
 print(line1)
+
+# Exercise 3.3, 2. Write a function that draws a similar grid with four rows and four columns.
+
+lineA = "+" + "- " * 4 + "+" + "- " * 4 + "+" + "- " * 4 + "+" + "- " * 4 + "+"
+lineB = "|" + "  " * 4 + "|" + "  " * 4 + "|" + "  " * 4 + "|" + "  " * 4 + "|"
+
+print(lineA)
+print(lineB)
+print(lineB)
+print(lineB)
+print(lineB)
+print(lineA)
+print(lineB)
+print(lineB)
+print(lineB)
+print(lineB)
+print(lineA)
+print(lineA)
+print(lineB)
+print(lineB)
+print(lineB)
+print(lineB)
+print(lineA)
+print(lineB)
+print(lineB)
+print(lineB)
+print(lineB)
+print(lineA)
