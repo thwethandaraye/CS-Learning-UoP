@@ -27,4 +27,5 @@ time_taken = (1 * easy_pace) + (3 * tempo) + (1 * easy_pace)   # 2295 in seconds
 end_time = start_time + (time_taken / 60)    # 450.25 in minutes
 get_home_hour = end_time // 60
 get_home_minute = end_time % 60
-print(f"{int(get_home_hour)}:{get_home_minute:02.0f} am")
+arrive_time = str(int(get_home_hour)) + ":" + str(int(get_home_minute)) + " am"
+print(arrive_time)
