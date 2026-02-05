@@ -2,20 +2,31 @@
 
 Hi! 👋  
 I am a Computer Science student at **University of the People (UoPeople)**.  
-This repository documents my **learning journey and projects** throughout my CS degree.
+This repository documents my learning journey, progress tracking, and independent practice throughout my CS degree.
 
 📍 Start date: Jan 29 2026  
-🎯 Career goal: Backend Engineer
 
 ---
 
 ## 📚 About This Repository
 
-This repo is for:
-- Assignments & mini-projects
-- Practice exercises
+This repository is used to:
 
-⚠️ This repository does **not** include exam questions or copyrighted materials.
+- Track my academic and skill development progress
+- Document learning goals and reflections at a high level
+- Store independent practice work created outside of graded coursework
+
+⚠️ Academic Integrity Notice
+
+This repository does not contain:
+
+- Assignments, quizzes, exams, or projects submitted for grading
+- Discussion posts or written responses from UoPeople courses
+- Course materials, slides, or textbooks
+- Any work created by other students
+
+All graded coursework is not shared publicly and remains confidential, in full compliance with University of the People’s academic integrity and sharing policies.
+
 
 ## 🧠 Courses
 
@@ -71,8 +82,14 @@ This repo is for:
 
 ## 🛠 Skills Learned So Far
 - Python basics
-- Problem solving
-- Programming logic
-- Git & GitHub
+- Logical thinking and problem-solving
+- Basic programming concepts
+- Git & GitHub version control
+- Learning how to think like a computer scientist
+
+🌱 Ongoing Philosophy
+
+This repository reflects learning, not perfection.
+It will grow and evolve as my knowledge and skills improve over time.
 
 Thanks for visiting! 💚💚
